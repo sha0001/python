@@ -1,4 +1,7 @@
 # python
+
+https://raw.githack.com/sha0001/python/main/LiamsPythonNotes.html
+
 Location for my notes on python
 let's drop the text (PDF) in first, then look into how best to show that kind of content on Github
 
